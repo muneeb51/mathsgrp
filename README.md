@@ -9,7 +9,7 @@
 <h2 style=text-align:center;color:red;>MATHS ASSIGNMENT -1</h2>
 <h3 style= text-align:center;>APPLICATIONS OF LOGICAL EQUIVALENCE AND LOGICAL IMPLICATION</h3>
 
-<iframe src="https://" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://github.com/muneeb51/mathsgrp/blob/main/WhatsApp%20Video%202023-09-02%20at%2000.09.16.mp4" width="640" height="480" allow="autoplay"></iframe>
 </body>
 <h3 style=text-align:left;color:#317FF0;>SUBMITTED TO:</h3>
 <h4 style=text-align:left;color:#D45A2F;> MRS. ASHWINI H P </h4>
