@@ -19,4 +19,4 @@
 <h4 style=text-align:right;color:#D45A2F;> AARIF- 1AY21CS099 </h4>
 <h4 style=text-align:right;color:#D45A2F;> MOHAMMAD KAFEEL HAJI- 1AY21CS105 </h4>
 <h4 style=text-align:right;color:#D45A2F;> KUNAL RAJ- 1AY21CS082 </h4>
-<H2> <a href="">https://</a></h2>
+<H2> <a href="">https://https://github.com/muneeb51/mathsgrp/blob/main/README.md</a></h2>
