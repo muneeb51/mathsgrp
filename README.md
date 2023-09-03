@@ -16,7 +16,7 @@
 <h3 style=text-align:right;color:#317FF0;>SUBMITTED BY:</h3>
 <h4 style=text-align:right;color:#D45A2F;> MUNEEB FIRDOUS DAR- 1AY21CS110 </h4>
 <h4 style=text-align:right;color:#D45A2F;> OSHO- 1AY21CS103</h4>
-h4 style=text-align:right;color:#D45A2F;> AARIF- 1AY21CS099 </h4>
-h4 style=text-align:right;color:#D45A2F;> MOHAMMAD KAFEEL HAJI- 1AY21CS105 </h4>
-h4 style=text-align:right;color:#D45A2F;> KUNAL RAJ- 1AY21CS082 </h4>
-<H2> <a href="">https://sathvikkuna.github.io//</a></h2>
+<h4 style=text-align:right;color:#D45A2F;> AARIF- 1AY21CS099 </h4>
+<h4 style=text-align:right;color:#D45A2F;> MOHAMMAD KAFEEL HAJI- 1AY21CS105 </h4>
+<h4 style=text-align:right;color:#D45A2F;> KUNAL RAJ- 1AY21CS082 </h4>
+<H2> <a href="">https://</a></h2>
